@@ -626,13 +626,13 @@ namespace TemplatesInCSharp.Mains
             Console.WriteLine("O");
             MainO.OMain();
 
-            Console.WriteLine();
+            Console.WriteLine("L");
             MainL.LMain();
 
-            Console.WriteLine();
+            Console.WriteLine("I");
             MainI.IMain();
 
-            Console.WriteLine();
+            Console.WriteLine("D");
             MainD.DMain();
         }
     }
